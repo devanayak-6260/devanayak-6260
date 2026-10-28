@@ -14,10 +14,10 @@
 
 <br><br>
 
-<a href="https://wa.me/917489501087"><img src="https://img.shields.io/badge/WhatsApp-DEVA%20NAYAK-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" /></a>
+<a href="916260021735"><img src="https://img.shields.io/badge/WhatsApp-DEVA%20NAYAK-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" /></a>
 <a href="https://github.com/devanayak-6260"><img src="https://img.shields.io/badge/GitHub-DEVA%20NAYAK-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" /></a>
 <a href="https://www.youtube.com/@devanayak"><img src="https://img.shields.io/badge/YouTube-DEVA%20NAYAK-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" /></a>
-<a href="https://instagram.com/devanayak"><img src="https://img.shields.io/badge/Instagram-DEVA%20NAYAK-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
+<a href="https://instagram.com/devanayak"><img src="https://img.shields.io/badge/Instagram-deva_nayak_62600-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9108-5a8bce5e7843.gif" width="100%">
 
