@@ -29,12 +29,12 @@
 Name: DEVA NAYAK
 Role: Founder, CEO & Lead Developer
 Empire: DEVA ULTRA SPEED BOT EMPIRE
-Location: Bhopal, Madhya Pradesh, India 🇮🇳
+Location: chattisgarh, Madhya Pradesh, India 🇮🇳
 Experience: 3+ Years Dominating Bot World
 Speciality: High-Speed WhatsApp Automation (Baileys)
 Stack: JavaScript, Node.js, Python, MongoDB
 Motto: "I Don't Follow Trends, I Create Them 👑"
-Contact: wa.me/917489501087
+Contact: wa.me/916260021735
 Status: 👑 BOT KING - ALWAYS ON TOP
 ```
 
